@@ -1,0 +1,1 @@
+export { default as templateMiddleware } from './template.middleware.js'

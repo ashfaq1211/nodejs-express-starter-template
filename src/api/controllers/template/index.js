@@ -1,0 +1,1 @@
+export { default as templateController } from './template.controller.js'
